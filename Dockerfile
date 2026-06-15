@@ -3,6 +3,7 @@ FROM node:lts-jod AS build-stage
 
 WORKDIR /app
 
+
 # Update platform dependencies
 RUN apt-get update && apt-get install libsecret-1-0 jq -y
 
