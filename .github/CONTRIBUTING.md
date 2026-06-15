@@ -18,7 +18,7 @@ You have to create a fork of the Moodle App [Github repository][4] and there you
 ## Moodle App plugins
 
 Moodle has a framework for additional plugins to extend its functionality. We
-have a Moodle plugins directory <https://moodle.org/plugins/> where you can
+have a Moodle plugins directory where you can
 register and maintain your plugin. Plugins hosted in the plugins directory can
 be easily installed and updated via the Moodle administration interface, but you have to take care to make plugins compatible with the Moodle App. To help with this we have a [guideline][6] to develop plugins compabible with the Moodle App.
 
@@ -30,11 +30,4 @@ be easily installed and updated via the Moodle administration interface, but you
   the plugins directory. We do not pull from your code repository; you must do
   it explicitly.
 
-For further details, see <https://moodledev.io/general/community/plugincontribution>.
 
-[1]: https://moodle.org
-[2]: https://moodledev.io/general/app/development/development-guide
-[3]: https://moodle.atlassian.net
-[4]: https://github.com/moodlehq/moodleapp
-[5]: https://moodledev.io/general/development/process/security
-[6]: https://moodledev.io/general/app/development/plugins-development-guide
