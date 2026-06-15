@@ -6,6 +6,7 @@
         "name": "Moodle Pty Ltd.",
         "email": "mobile@moodle.com"
     },
+    
     "repository": {
         "type": "git",
         "url": "https://github.com/moodlehq/moodleapp.git"
